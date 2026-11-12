@@ -1,0 +1,9 @@
+{
+  "name": "پروژه 2",
+  "templateId": "empty",
+  "agent": {
+    "profile": "light",
+    "planApproval": true,
+    "askUser": true
+  }
+}

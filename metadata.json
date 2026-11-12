@@ -1,0 +1,6 @@
+{
+  "name": "مشاور",
+  "description": "دستیار و مشاور هوشمند روانشناسی، تحلیل احساسات و گفتگوها",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
